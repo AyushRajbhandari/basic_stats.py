@@ -1,5 +1,5 @@
 # Author: Ayush Rajbhandari
-# Date: 2026-06-30
+# Date: 6-30-26
 # Description: Defines a Student class with private members and a basic_stats function
 #              that calculates the mean, median, and mode of a list of Student grades.
 
